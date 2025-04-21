@@ -31,6 +31,7 @@ Identifies if the guest was assigned the same room type they reserved.
 Classifies guests as Couples, Single, or Family.
 
 **📊 Dataset Fields Used**
+
 arrival_date_year
 
 arrival_date_month
@@ -44,6 +45,7 @@ adults, children, babies
 is_canceled
 
 **🛠 Tools & Features**
+
 Microsoft Excel
 
 Pivot Tables & Charts
@@ -53,6 +55,7 @@ Data Slicers
 Excel Formulas (IF, AND)
 
 **📌 Insights**
+
 Couples make up the majority of bookings and cancellations.
 
 Undesired room assignments result in higher cancellation rates.
