@@ -32,37 +32,37 @@ Classifies guests as Couples, Single, or Family.
 
 **📊 Dataset Fields Used**
 
-arrival_date_year
+- arrival_date_year
 
-arrival_date_month
+- arrival_date_month
 
-hotel (City/Resort)
+- hotel (City/Resort)
 
-reserved_room_type, assigned_room_type
+- reserved_room_type, assigned_room_type
 
-adults, children, babies
+- adults, children, babies
 
-is_canceled
+- is_canceled
 
 **🛠 Tools & Features**
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables & Charts
+- Pivot Tables & Charts
 
-Data Slicers
+- Data Slicers
 
-Excel Formulas (IF, AND)
+- Excel Formulas (IF, AND)
 
 **📌 Insights**
 
-Couples make up the majority of bookings and cancellations.
+- Couples make up the majority of bookings and cancellations.
 
-Undesired room assignments result in higher cancellation rates.
+- Undesired room assignments result in higher cancellation rates.
 
-Resort Hotels have more bookings than City Hotels.
+- Resort Hotels have more bookings than City Hotels.
 
-Booking activity peaks between May and August.
+- Booking activity peaks between May and August.
 
 
 
