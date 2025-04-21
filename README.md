@@ -30,25 +30,38 @@ Identifies if the guest was assigned the same room type they reserved.
 ### 🔹 Guest Type**
 Classifies guests as Couples, Single, or Family.
 
-**📊 Dataset Fields Used**
+📊 Dataset Fields Used
 arrival_date_year
+
 arrival_date_month
+
 hotel (City/Resort)
+
 reserved_room_type, assigned_room_type
+
 adults, children, babies
+
 is_canceled
 
-**🛠 Tools & Features**
+🛠 Tools & Features
 Microsoft Excel
+
 Pivot Tables & Charts
+
 Data Slicers
+
 Excel Formulas (IF, AND)
 
-**📌 Insights**
+📌 Insights
 Couples make up the majority of bookings and cancellations.
+
 Undesired room assignments result in higher cancellation rates.
+
 Resort Hotels have more bookings than City Hotels.
+
 Booking activity peaks between May and August.
+
+
 
 **📷 Dashboard Preview**
 
