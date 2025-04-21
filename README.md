@@ -28,11 +28,11 @@ If yes → marked as “Desired”, otherwise “Undesired”.
   
 → Classifies guests as Couples, Single, or Family.
 
-Couples: 2 adults, no children/babies
+- Couples: 2 adults, no children/babies
 
-Single: 1 adult, no children/babies
+- Single: 1 adult, no children/babies
 
-Family: Any other combination
+- Family: Any other combination
 
 
 
