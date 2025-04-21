@@ -20,14 +20,21 @@ It helps visualize total and cancelled bookings, booking trends, guest types, an
 ## 🧠 Calculated Columns
 
 ### 🔹 Room Status
-Uses the formula:  
-`=IF([@[reserved_room_type]]=[@[assigned_room_type]],"Desired","Undesired")`  
-→ Identifies if the guest was assigned the same room type they reserved.
+
+→ Identifies whether the guest was assigned the same room type they originally reserved.
+If yes → marked as “Desired”, otherwise “Undesired”.
 
 ### 🔹 Guest Type
-Uses the formula:  
-`=IF(AND([@adults]=2,[@children]=0,[@babies]=0),"Couples",IF(AND([@adults]=1,[@children]=0,[@babies]=0),"Single","Family"))`  
+  
 → Classifies guests as Couples, Single, or Family.
+
+Couples: 2 adults, no children/babies
+
+Single: 1 adult, no children/babies
+
+Family: Any other combination
+
+
 
 ---
 
